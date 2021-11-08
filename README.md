@@ -1,5 +1,5 @@
 # c101
-A dump for all of my noob C codes, let see if I can code like what I do in other languages.
+A dump for all of my noob C codes, let see if I can code like a real Computer Science person! (Send Help)
 
 ## initial setup
 NOTE: This was my actual Windows 10 (Administrator) setup
@@ -39,5 +39,6 @@ gcc %f%.c -o %f%
 
 ## disclaimer
 1. Codes might be too bookish and not simplified, teach me senpai!
-2. Some time complexity calculations may be wrong, but will be corrected as I learn how to do it properly.
-3. Other things might have been overlooked, I will work on that.
+2. Some implementations are not yet optimized (or correct?), because author is still at beginner level.
+3. Some time complexity calculations may be wrong, but will be corrected as I learn how to do it properly.
+4. Other things might have been overlooked, I will work on that.
